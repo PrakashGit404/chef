@@ -1,0 +1,5 @@
+-- apt-get update && apt-get install -y curl build-essential git libxml2-dev libxslt-dev libssl-dev
+-- curl -L https://www.opscode.com/chef/install.sh | bash
+-- berks -v
+-- berks install
+-- berks upload [run this command from current cookbook]
